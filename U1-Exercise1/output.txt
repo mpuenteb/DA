@@ -1,0 +1,1 @@
+Student's name:Peter Johnson	Year of birth:1990	Address:Victoria Road 3Student's name:James Gordon	Year of birth:1992	Address:London Road 3Student's name:Claire Griffin	Year of birth:1992	Address:Oxford Street 15
